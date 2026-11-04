@@ -1,0 +1,31 @@
+﻿invoice_no,partner_airline,country,direction,service_type,description,currency,amount,exchange_rate,issue_date,due_date,status,submitted_to_accounts_date,paid_date
+INV-2026-0001,Malaysia Airlines,Malaysia,provided,Component repair / exchange,Component repair / exchange - Malaysia Airlines (ref 619),USD,18029.18,110.0,2026-10-17,2026-11-01,Paid,2026-10-29,2026-11-03
+INV-2026-0002,Singapore Airlines,Singapore,provided,Line maintenance / transit check,Line maintenance / transit check - Singapore Airlines (ref 946),USD,2203.95,110.0,2026-07-14,2026-07-29,Submitted to Accounts,2026-07-16,
+INV-2026-0003,US-Bangla Airlines,Bangladesh,received,AOG support,AOG support - US-Bangla Airlines (ref 236),BDT,4429242.41,1,2026-10-14,2026-12-13,Paid,2026-10-25,2026-11-26
+INV-2026-0004,Thai Airways,Thailand,provided,Training seat,Training seat - Thai Airways (ref 205),USD,1976.04,110.0,2026-09-29,2026-11-13,Pending,,
+INV-2026-0005,US-Bangla Airlines,Bangladesh,provided,Spare part loan,Spare part loan - US-Bangla Airlines (ref 608),BDT,,1,2026-06-11,2026-06-26,Pending,,
+INV-2026-0006,Novoair,Bangladesh,provided,Training seat,Training seat - Novoair (ref 898),BDT,447134.05,1,2026-07-02,2026-08-31,Paid,2026-07-07,2026-08-09
+INV-2026-0007,Singapore Airlines,Singapore,provided,AOG support,AOG support - Singapore Airlines (ref 394),USD,27955.98,110.0,2026-06-17,2026-08-16,Pending,,
+INV-2026-0008,US-Bangla Airlines,Bangladesh,provided,AOG support,AOG support - US-Bangla Airlines (ref 140),BDT,1418578.78,1,2026-07-14,2026-08-13,Paid,2026-07-24,2026-08-12
+INV-2026-0009,Novoair,Bangladesh,provided,AOG support,AOG support - Novoair (ref 170),BDT,3765392.24,1,2026-08-10,2026-09-24,Submitted to Accounts,2026-08-19,
+INV-2026-0010,Qatar Airways,Qatar,provided,Engineer deputation (man-hours),Engineer deputation (man-hours) - Qatar Airways (ref 941),USD,7266.89,110.0,2026-10-13,2026-10-28,Paid,2026-10-25,2026-11-19
+INV-2026-0011,Kuwait Airways,Kuwait,provided,Engineer deputation (man-hours),Engineer deputation (man-hours) - Kuwait Airways (ref 605),USDD,9449.65,110.0,2026-08-02,2026-08-17,Submitted to Accounts,2026-08-05,
+INV-2026-0012,Emirates,UAE,provided,Spare part loan,Spare part loan - Emirates (ref 608),USD,12102.91,110.0,2026-09-26,2026-10-26,Pending,,
+INV-2026-0013,Qatar Airways,Qatar,provided,Component repair / exchange,Component repair / exchange - Qatar Airways (ref 984),USD,19823.18,110.0,2026-06-11,2026-07-26,Pending,,
+INV-2026-0014,Oman Air,Oman,provided,Engineer deputation (man-hours),Engineer deputation (man-hours) - Oman Air (ref 337),USD,9357.57,110.0,2026-07-30,2026-09-28,Paid,2026-08-04,2026-08-19
+INV-2026-0015,Novoair,Bangladesh,provided,Spare part loan,Spare part loan - Novoair (ref 724),BDT,291586.71,1,2026-09-13,2026-10-28,Paid,2026-09-24,2026-10-10
+INV-2026-0016,US-Bangla Airlines,Bangladesh,provided,Borescope / NDT inspection,Borescope / NDT inspection - US-Bangla Airlines (ref 995),BDT,954917.25,1,2026-06-20,2026-07-05,Pending,,
+INV-2026-0017,Novoair,Bangladesh,provided,Training seat,Training seat - Novoair (ref 168),BDT,309499.28,1,2026-07-21,2026-08-05,Submitted to Accounts,2026-07-26,
+INV-2026-0018,Singapore Airlines,Singapore,received,Technical records audit,Technical records audit - Singapore Airlines (ref 203),USD,1573.3,110.0,2026-08-03,31/02/2026,Submitted to Accounts,2026-08-13,
+INV-2026-0019,Malaysia Airlines,Malaysia,received,Line maintenance / transit check,Line maintenance / transit check - Malaysia Airlines (ref 472),USD,2130.48,110.0,2026-09-06,2026-11-05,Paid,2026-09-14,2026-10-11
+INV-2026-0020,Kuwait Airways,Kuwait,provided,AOG support,AOG support - Kuwait Airways (ref 867),USD,12806.67,110.0,2026-06-27,2026-08-26,Paid,2026-07-02,2026-07-16
+INV-2026-0021,Malaysia Airlines,Malaysia,provided,Engineer deputation (man-hours),Engineer deputation (man-hours) - Malaysia Airlines (ref 470),USD,7307.6,110.0,2026-09-18,2026-10-03,Pending,,
+INV-2026-0022,Saudia,Saudi Arabia,provided,Line maintenance / transit check,Line maintenance / transit check - Saudia (ref 271),USD,5363.27,110.0,2026-08-14,2026-08-29,Paid,2026-08-22,2026-09-28
+INV-2026-0023,Malaysia Airlines,Malaysia,provided,Spare part loan,Spare part loan - Malaysia Airlines (ref 907),USD,9157.4,110.0,2026-06-23,2026-08-07,Pending,,
+INV-2026-0024,Singapore Airlines,Singapore,provided,Spare part loan,Spare part loan - Singapore Airlines (ref 128),USD,12729.16,110.0,2026-09-01,2026-10-01,Submitted to Accounts,2026-09-03,
+INV-2026-0025,Thai Airways,Thailand,provided,Technical records audit,Technical records audit - Thai Airways (ref 457),USD,1796.1,110.0,2026-08-02,2026-10-01,Pending,,
+INV-2026-0026,Malaysia Airlines,Malaysia,provided,AOG support,AOG support - Malaysia Airlines (ref 724),USD,16275.26,110.0,2026-09-01,2026-10-31,Paid,2026-09-13,2026-10-15
+INV-2026-0027,Emirates,UAE,provided,Technical records audit,Technical records audit - Emirates (ref 828),USD,3291.16,110.0,2026-08-02,2026-08-17,Paid,2026-08-11,2026-09-12
+INV-2026-0028,Singapore Airlines,Singapore,received,Technical records audit,Technical records audit - Singapore Airlines (ref 839),USD,3244.73,110.0,2026-07-10,2026-08-24,Pending,,
+INV-2026-0029,Air Arabia,UAE,provided,Technical records audit,Technical records audit - Air Arabia (ref 576),USD,2123.19,110.0,2026-10-08,2026-11-07,Paid,2026-10-13,2026-11-11
+INV-2026-0030,Novoair,Bangladesh,provided,Component repair / exchange,Component repair / exchange - Novoair (ref 114),BDT,2770011.21,1,2026-06-30,2026-08-14,Submitted to Accounts,2026-07-02,
